@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ahmed-aiengineer/ahmed-aiengineer/raw/main/banner.png" alt="Banner" width="100%"/>
+  <img src="https://github.com/ahmed-aiengineer/ahmed-aiengineer/raw/main/Banner.png" alt="Banner" width="100%"/>
 </p>
 
 # 👋 Hi there, I’m **Ahmed Abid**
@@ -66,6 +66,4 @@ I bring **7+ years** of experience building **production-grade ML platforms**, r
 - [Twitter](https://twitter.com/yourhandle)  
 - [✉️ Email](mailto:your.email@example.com)
 
----
 
-*“The best way to predict the future is to build it.”*
