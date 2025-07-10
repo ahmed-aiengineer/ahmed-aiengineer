@@ -63,7 +63,7 @@ I bring **7+ years** of experience building **production-grade ML platforms**, r
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [✉️ Email](mailto:your.email@example.com)
+- [Upwork](https://www.upwork.com/freelancers/~0161fc051c0b65ed85)  
+- [✉️ Email](mailto:ahmed.abid8414@gmail.com)
 
 
